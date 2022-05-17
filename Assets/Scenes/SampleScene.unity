@@ -551,7 +551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   brickPrefab: {fileID: 0}
   xOffset: 0
-  UserOffset: {fileID: 0}
+  UserOffset: {fileID: 1926474568}
 --- !u!114 &1136750570
 MonoBehaviour:
   m_ObjectHideFlags: 0
